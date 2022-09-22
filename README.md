@@ -1,2 +1,3 @@
-# CYBER-SECURITY-
-SECURING DATA STORAGE IN CLOUD USING BLOCKCHAIN TECHNOLOGY AND IMAGE STEGANOGRAPHY
+# LSB-Steganography-Python
+Implementation of LSB Steganography technique in Python 3. It also includes a GUI implementation.
+
